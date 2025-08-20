@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Mane</h1>
-<h3 align="center">🚀 Full Stack Developer | Aspiring AI/ML Engineer | Cloud Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Aspiring AI/ML Engineer | Cloud Enthusiast</h3>
 
 ---
 
@@ -44,6 +44,6 @@
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-mane-696287169)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/omkarbm03)  
-📧 **omkarbalasaheb.mane@gwu.edu**
+📧 **mane.omkarb@gmail.com**
 
 ---
