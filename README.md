@@ -35,12 +35,6 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-### 📈 GitHub Stats
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarbm03&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbm03&layout=compact&theme=radical)
-
----
-
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-mane-696287169)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/omkarbm03)  
