@@ -5,7 +5,6 @@
 
 ### 👨‍💻 About Me
 - 🎓 Master's in **Computer Science (AI/ML focus)** from **George Washington University**  
-- 💼 Experience as **Programmer Analyst at Cognizant** and **Graduate Assistant at GWU**  
 - 🔭 Worked on projects in **Full Stack Development, Machine Learning, Cloud, and Automation**  
 - 🌱 Currently exploring **DevOps, System Design, and Advanced ML/LLM applications**  
 - ⚡ Fun fact: I love playing **football, cricket, and badminton** 🏏⚽🏸  
