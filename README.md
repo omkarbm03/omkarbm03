@@ -12,10 +12,6 @@
 
 ---
 
-🔗 Explore my latest web app: [GitMatched](http://54.197.96.127/)
-
----
-
 ### 🛠️ Tech Stack
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
