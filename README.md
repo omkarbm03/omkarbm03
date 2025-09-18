@@ -3,7 +3,8 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
+- 👨‍💻 **This is where I come to have fun**
 - 🎓 Master's in **Computer Science (AI/ML focus)** from **George Washington University**  
 - 🔭 Worked on projects in **Full Stack Development, Machine Learning, Cloud, and Automation**  
 - 🌱 Currently exploring **DevOps, System Design, and Advanced ML/LLM applications**  
